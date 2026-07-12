@@ -12,7 +12,7 @@ st.set_page_config(
 # -----------------------------
 # Load Model
 # -----------------------------
-model = joblib.load("model (3).pkl")
+model = joblib.load("model1.pkl")
 
 # -----------------------------
 # Title
